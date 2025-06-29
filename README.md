@@ -2,7 +2,7 @@
 
 Portfólio pessoal de Samuel Arthur, desenvolvedor front-end.
 
-🌐 Site: https://portfolio-teal-eta-60.vercel.app/
+🌐 Site: https://portfolio-v12-navy.vercel.app/
 
 ## 🚀 Tecnologias Utilizadas
 
